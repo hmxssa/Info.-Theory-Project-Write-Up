@@ -88,15 +88,31 @@
           <td>&nbsp;</td>
           <td valign="top">
           <blockquote>
-          I found maps of where it's believed this myth takes place, and used this as the 
-          basis for the maps' geography. The locations are approximations as the locations are
-          described like <i>"an area between Lough Erne, County Fermanagh and 
-          the Drowes in County Donegal. It is close to Dernish Island, County Sligo, 
-          a possible location of the island of the Fomorians."</i>
+          Control Flow is visible everywhere in my project. Sequence, iteration, and conditional statements all 
+          play a very crucial role in running my codes successfully. 
+          Sequence - My code runs in an order from the top to bottom. It starts by the imports, making sure that 
+          the program I’m using is in, the clock as it supports my time variable, and randomization. I also include 
+          the variables I use throughout the code such as the height and width of the screen, player, star and even the velocity too.  
+          Iteration - The while run loop is an example used for iteration in my game. This loop continues to run as long as
+          the variable RUN is true. Inside this loop, there are for_in loops that re-goes three times to create 3 stars randomly 
+          positioned in the sky. Actually, something quite interesting is that as the time being longer that a player lasts, more 
+          stars start to fall and their speed increases as well. I think it’s actually quite good because it gets people to want to 
+          practice even more to pass it. This is through the random import. 
+          Conditional - Multiple functions such as if to check for key pieces being used and if one certain one is 
+          pressed then a specific function will happen. This happens in the code “if keys [pygame.K_LEFT]. This is 
+          also expressed in the if, else, and elif statements. They are used to execute a certain code among three actions that 
+          a player may choose/perform. The draw function is also used a lot, as it’s responsible for the providing of the background, 
+          player, stars, time, and game window. 
+          The main function is what actually runs the majority such as the initial codes, the  loop of the game, the stars, player
+          movement, collision of the two, and even the game over message. An addition is the delay and pressed functions. My game 
+          pauses for 5000 milliseconds after the player loses, and the pressed indicates whether the left key or right key is getting 
+          pressed. There are many additional factors and codes written in, but I only included those to make sure my code runs because of 
+          the rules pygame offers. 
+          Variables - The variables used are the WIN, player width, height, velocity, the stars width, height, and velocity,
+          BASE_DIR, and the font used for display. All these variables allow for the working and loads of the player and objects in the game. 
+</i>
             <br><br>
-          In the first of the three maps, you represent Lady
-          Cessair, who led the people to Ireland fleeing the coming flood. Here, you establish a 
-          community before heading west. This map is based on an area south of Arklow, County Wicklow.
+           The design is really what brings it all together. Beside is the picture I chose for my background in my game
           </blockquote>
           </td>
           <td valign="top"><br>
@@ -133,10 +149,11 @@
            in blue. There was no motive behind it, I just felt that it was both cute and visible.
           <BR><BR>
             
-          The third and final map represents an area along the River Finn, near Lough Swilly in the 
-          barony of Raphoe, County Donegal, where the medieval tuath of Magh Itha was. Here, you will
-          battle the Fomorian forces, lead by Cichol Gricenchos "of the withered feet" in a long battle
-          on the Slemna "smooth lands" (plains), which results in the end of the Fomorians.
+         My codes and designs all tie together to make a simple, yet cute 2d game in which one can really test their 
+         skills to get the best at. It uses information theory, such as iteration, selection, and sequence within 
+         the pygame program, making the player steer and navigate to avoid falling rocks while having tracked the
+         elapsed time. If one wants to play, please display your screen size to fit the size of the background image 
+         for best results!
 
           <br><br>
             <img src="img/age-of-empires.png" width="525" />
