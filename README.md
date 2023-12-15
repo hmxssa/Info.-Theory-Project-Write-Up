@@ -34,7 +34,8 @@
         <td valign="top" width="270">
         <font size="+1" color="#653"><b><i>Summary</i></b></font>
           <blockquote>
-          A project to create a custom campaign in the Age of Empires game engine based on the 
+          A project to create a simple, yet addictive game based on old, nostalgic games we 
+          played when we were once young. A 2d game to avoid stars and custom campaign in the Age of Empires game engine based on the 
           First Battle of Ireland, according to Irish mythology. This custom scenario
           was created in the official editor packaged with the product.
           </blockquote><br>
