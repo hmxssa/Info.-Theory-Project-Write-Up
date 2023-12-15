@@ -34,16 +34,16 @@
         <td valign="top" width="270">
         <font size="+1" color="#653"><b><i>Summary</i></b></font>
           <blockquote>
-          A project to create a simple, yet addictive game based on old, nostalgic games we 
-          played when we were once young. A 2d game to avoid stars and custom campaign in the Age of Empires game engine based on the 
-          First Battle of Ireland, according to Irish mythology. This custom scenario
-          was created in the official editor packaged with the product.
+          A project to create a simple, yet addictive game based on old, nostalgic games we played when we 
+          were once young. A 2d game with a player that avoids the falling of stars seeing how long they can 
+          last with the time being counted.
           </blockquote><br>
         <font size="+1" color="#653"><b><i>Skills</i></b></font>
           <blockquote>
           ¬ Project Planning<br>
-          ¬ Research<br>
-          ¬ Map Design<br>
+          ¬ Game Design<br>
+          ¬ Info. Theory Incorporation<br>
+          ¬ Creativity<br>
           </blockquote>
         </td>
         
@@ -51,20 +51,37 @@
         
           <font size="+1" color="#653"><b><i>Scenario</i></b></font><br>
           <blockquote>
-          I wanted to choose something from mythology or pseudohistory. My first thought was to choose 
-          a historical battle, as then I'll also probably be able to find maps of the area to reference. 
-          However, to make a fair match between two different peoples could be challenging, and failing to
-          do that, or the perception of failing to do that, could be seen as disrespectful to one of the groups.<BR><BR>
-          As such, I chose to do a battle against an unknown or pseudo-unhuman force.<br>
+          My initial idea for this project was to create an encryption method, simply because I wanted
+          it to meet all the project requirements in an intelligent way. As I began working on it, I realized
+          that not only was it extremely unrealistic, but no progress was being made. I stressed more than I 
+          was getting done. I was quite nervous to switch my project idea as I felt that it would make me 
+          seem unintelligent and undetermined, which really I was only lost. Then I remembered how much more 
+          my grade matters and everyone makes mistakes, so I ended up changing my idea. Best decision ever. 
+          Not only does it meet the majority of the requirements, but I got so much more in one day with this 
+          new idea than I did in 3+ days with the other idea. Now once I started my new idea, I wanted to do 
+          something from games or entertainment. My first thought was to do a 3d game as it could be more fun 
+          and exciting to play. However, to make a fair balance of design and coding could be challenging in
+          a 3d game, and failing to do that, could be seen as lack of knowledge and skill in the project product. 
+          As such, I chose to do a 2d game of a player avoiding to clash with falling stars to avoid losing.
+<br>
           </blockquote><br>
 
           <font size="+1" color="#653"><b><i>Overview</i></b></font><br>
           <blockquote>
-          For my custom map, I chose to recreate the Battle of Mag Itha, the first battle of Ireland.
-          This story comes from Irish mythology, and in it, the ancient Irish are said to have come
-          from the south and encountered the Fomorians. The Fomorians were seen as a supernatural race,
-          or sometimes as pirates without a specific origin. This would meet my design requirement of
-          not showing disrespect toward a certain culture.
+         For my writing of my codes, I had to find a program that would support replit as I completed 
+         my project there. The most reliable and known was pygame, so I used many of pygames functions
+         and codes to write this game. There were many guides and helpful tips on their website and 
+         other videos, so it wasn’t confusing for the most part. The hardest part would have to be getting 
+         the values correct. For example, the size of the screen played a big part in having to run the
+         code properly as not all screen sizes are the same. It could be extremely large on a mac, but 
+         super small on a chrome book or such. Therefore I had to figure out how to make it fit either
+         way, which was a part of my failing process as it was quite difficult to figure out. Another is 
+         the actual loading of the background image. I wanted to follow a different procedure regarding
+         the insertion of the picture because I had expected a different outcome, but nothing worked. I 
+         even tried different functions but nothing was working. I then later realized that the only way 
+         pygame will run its functions from replit is if the image is in the directory, and not just the file.
+         It was quite a long process to figure, but once I did, it made my game testing so much easier and smoothly. 
+
         </td>
       </tr>
         <tr>
@@ -91,10 +108,29 @@
           <td colspan="2">
 
           <blockquote>
-          In the second map, you represent a follower of Partholón, Ith. You travel north of the Lower
-          Lough Erne, toward the border of Fermanagh and Donegal. You intend 
-          to clear a plain in order to raise oxen, plough fields, and grow crops. However, you will come
-          across the Fomorians as you move further northward.
+           The background I chose to do is obviously space themed, as there are stars falling 
+           from the sky. I had a couple of options, but I didn’t want it to be too distracting. 
+           There were many cool, unrealistic pictures available to use as the BG, but once I ran
+           the code, the game was quite overshadowed by the background. I thought it was the color 
+           of the background, so I tried keeping it more solid and bold, but with many designs.
+           That still didn’t quite turn out the best, so I tried the opposite. I settled on the fact 
+           that a colorful, abstract, and crazy background doesn’t suit my game background therefore 
+           I chose a simple black background, white dots(stars), and a planet in the middle with rings
+           (it may be Saturn but I don’t wish to assume). When I ran my code again, it looked so much 
+           better and the game didn’t look messy or displeasing to view. Then it was time to figure out 
+           the colors of the fonts and players. My initial plan was to keep everything white as it went 
+           with the theme of space, but then I changed my idea to make it more diverse in those areas. 
+           I wanted to switch it up a bit, while still making it look cute! Now the game doesn’t allow 
+           players to choose the color of the player (I know, bummer), but they do get an amazing light
+           pink rectangle! The pink color seemed so aesthetically pleasing to use, so I took the chance.
+           I mean who doesn’t like pink?! I kept the time counter white since it was only a function and
+           not something moving. The stars were originally going to be white, but I thought it was too basic 
+           so I changed it to yellow. Then I wanted to also include asteroids but I felt like that would be
+           too bland. Then again, I took in consideration of the background and noticed that there were 
+           already stars, so I again changed it back to asteroids. I also feel like it’s more realistic in
+           the sense of the real world. So yes it was quite a big change, but the outcome is better than the 
+           stars. For the display of once a player loses, a “You Lost” text pops up in the center of the screen
+           in blue. There was no motive behind it, I just felt that it was both cute and visible.
           <BR><BR>
             
           The third and final map represents an area along the River Finn, near Lough Swilly in the 
