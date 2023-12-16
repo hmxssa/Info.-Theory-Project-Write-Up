@@ -11,10 +11,10 @@
       <table border=0 width="850"> 
         <tr>
           <td colspan="3">
-          <img src="img/ireland.png" width="850"/>
+          <img src="star.png" width="850"/>
           
           <p> 
-          &nbsp;&nbsp;&nbsp;<font size="+2" color="#643">The Battle of Mag Itha</font><br>
+          &nbsp;&nbsp;&nbsp;<font size="+3" color="#643">Space Strike</font><br>
           <hr>
         </p>
           
@@ -22,7 +22,7 @@
       </tr>
       <tr>
         <td valign="top" width="270">
-        <font size="+1" color="#653"><b><i>Summary</i></b></font>
+        <font size="+2" color="#653"><b><i>Summary</i></b></font>
           <blockquote>
           A project to create a simple, yet addictive game based on old, nostalgic games we played when we 
           were once young. A 2d game with a player that avoids the falling of stars seeing how long they can 
@@ -39,7 +39,7 @@
         
         <td valign="top" colspan="2">
         
-          <font size="+1" color="#653"><b><i>Scenario</i></b></font><br>
+          <font size="+2" color="#653"><b><i>Scenario</i></b></font><br>
           <blockquote>
           My initial idea for this project was to create an encryption method, simply because I wanted
           it to meet all the project requirements in an intelligent way. As I began working on it, I realized
@@ -58,7 +58,7 @@
 <br>
           </blockquote><br>
 
-          <font size="+1" color="#653"><b><i>Overview</i></b></font><br>
+          <font size="+2" color="#653"><b><i>Overview</i></b></font><br>
           <blockquote>
          For my writing of my codes, I had to find a program that would support replit as I completed 
          my project there. The most reliable and known was pygame, so I used many of pygames functions
@@ -79,6 +79,9 @@
         <tr>
           <td>&nbsp;</td>
           <td valign="top">
+          <font size="+2" color="#653"><b><i>Skill Descriptions</i></b></font><br>
+          <blockquote>
+          <font size="+1" color="#653"><b><i>Control Flow</i></b></font><br>
           <blockquote>
           Control Flow is visible everywhere in my project. Sequence, iteration, and conditional statements all 
           play a very crucial role in running my codes successfully. 
@@ -108,7 +111,7 @@
           </blockquote>
           </td>
           <td valign="top"><br>
-            <img src="img/ireland2.png" width="220">
+            <img src="img/stars.png" width="220">
           </td>
         </tr>
         <tr>
@@ -141,14 +144,14 @@
            in blue. There was no motive behind it, I just felt that it was both cute and visible.
           <BR><BR>
             
-         My codes and designs all tie together to make a simple, yet cute 2d game in which one can really test their 
-         skills to get the best at. It uses information theory, such as iteration, selection, and sequence within 
-         the pygame program, making the player steer and navigate to avoid falling rocks while having tracked the
-         elapsed time. If one wants to play, please display your screen size to fit the size of the background image 
-         for best results!
+          My codes and designs all tie together to make a simple, yet cute 2d game in which one can really test their 
+          skills to get the best at. It uses information theory, such as iteration, selection, and sequence within 
+          the pygame program, making the player steer and navigate to avoid falling rocks while having tracked the
+          elapsed time. If one wants to play, please display your screen size to fit the size of the background image 
+          for best results!
 
           <br><br>
-            <img src="img/age-of-empires.png" width="525" />
+            <img src="img/youlost.png" width="525" />
           
           </blockquote>
         
