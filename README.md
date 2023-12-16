@@ -6,17 +6,7 @@
   
   <body bgcolor="#ddd" text="black" topmargin="0" leftmargin="0">
     <br><br>
-    
 
-
-      <! -- This is a Comment; you can see it in the code, but not on the page.
-      
-      All projects will be more or less based on the same design and the same style
-      as the initial resume they link to. Be aware, these are not fully developed
-      project pages. A fully developed project page for a portfolio would have
-      significantly more content, including a strong focus on planning and development.
-      -->
-    
       <center>
       <table border=0 width="850"> 
         <tr>
@@ -58,11 +48,13 @@
           seem unintelligent and undetermined, which really I was only lost. Then I remembered how much more 
           my grade matters and everyone makes mistakes, so I ended up changing my idea. Best decision ever. 
           Not only does it meet the majority of the requirements, but I got so much more in one day with this 
-          new idea than I did in 3+ days with the other idea. Now once I started my new idea, I wanted to do 
-          something from games or entertainment. My first thought was to do a 3d game as it could be more fun 
-          and exciting to play. However, to make a fair balance of design and coding could be challenging in
-          a 3d game, and failing to do that, could be seen as lack of knowledge and skill in the project product. 
-          As such, I chose to do a 2d game of a player avoiding to clash with falling stars to avoid losing.
+          new idea than I did in 3+ days with the other idea. There were also so many websites and youtube videos
+          that helped me both start, and get through this project. It was great and I learned so many new things!
+          Now once I started my new idea, I wanted to do something from games or entertainment. My first thought 
+          was to do a 3d game as it could be more fun and exciting to play. However, to make a fair balance of 
+          design and coding could be challenging in a 3d game, and failing to do that, could be seen as lack 
+          of knowledge and skill in the project product. As such, I chose to do a 2d game of a player avoiding to 
+          clash with falling stars to avoid losing.
 <br>
           </blockquote><br>
 
